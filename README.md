@@ -4,7 +4,7 @@ Senior Software Engineer in Bangkok. 5+ years building production systems across
 
 - Senior Software Engineer at [Innorithm](https://innorithm.co)
 - Lately building native Apple apps with SwiftUI
-- B.Sc. Computer Science at University of the People (in progress)
+- B.Sc. Computer Science, University of the People
 
 ### Stack
 
